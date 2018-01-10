@@ -8,3 +8,10 @@ def fibo(num):
     print()
 
 fibo(15)
+
+# if you wanna read id from console just uncomment
+# inputNum=input ("please enter your num : ")
+# if inputNum.isdigit():
+#     fibo(inputNum)
+# else:
+#     print("please enter a number! ")
